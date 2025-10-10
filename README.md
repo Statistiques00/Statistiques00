@@ -16,8 +16,5 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=statistiques00&" alt="statistiques00" />
     </td>
-    <td>
-      <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5840354" style='border:none;'></iframe>
-    </td>
   </tr>
 </table>
