@@ -3,19 +3,23 @@
 ---
 
 ### 🧑‍💻 Qui suis-je ?
-Je suis actuellement étudiant en **Bachelor 1 Cybersécurité**, avec une passion pour tout ce qui touche à la sécurité informatique et aux systèmes. Mon objectif est de développer mes compétences pour réussir le **eJPT (Junior Penetration Tester)**
+Je suis actuellement étudiant en **Bachelor 1 Cybersécurité**, avec une passion pour tout ce qui touche à la sécurité informatique et aux systèmes.  
+Mon objectif est de développer mes compétences pour réussir le **eJPT (Junior Penetration Tester)**.  
 Je consacre mon temps à :
-- 🔭 Travailler sur des projets comme [SecureEntry](https://github.com/Statistiques00/SecureEntry), disponibles sur mon profil GitHub.
-- 🌱 Apprendre des technologies comme **Go** et **React** pour enrichir mes compétences techniques.
+- 🔭 Travailler sur des projets comme [SecureEntry](https://github.com/Statistiques00/SecureEntry), disponibles sur mon profil GitHub.  
+- 🌱 Apprendre des technologies comme **Go** et **React** pour enrichir mes compétences techniques.  
 - 🏅 Explorer et progresser sur [TryHackMe](https://tryhackme.com/p/TOUDINCOU), où je pratique régulièrement.
 
-<div>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5840354" style="border:none; width:400px; height:120px;"></iframe>
-</div>
+<p align="center">
+  <a href="https://tryhackme.com/p/TOUDINCOU">
+    <img src="assets/tryhackme-badge.png" alt="TryHackMe Badge" width="400" height="120" style="border:none;"/>
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Languages et Outils :
+
 #### Langages pour systèmes d'exploitation :
 <p>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
