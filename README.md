@@ -10,9 +10,9 @@ Je consacre mon temps à :
 - 🌱 Apprendre des technologies comme **Go** et **React** pour enrichir mes compétences techniques.  
 - 🏅 Explorer et progresser sur [TryHackMe](https://tryhackme.com/p/TOUDINCOU), où je pratique régulièrement.
 
-<p align="center">
+<p align="left">
   <a href="https://tryhackme.com/p/TOUDINCOU">
-    <img src="assets/tryhackme-badge.png" alt="TryHackMe Badge" width="400" height="120" style="border:none;"/>
+    <img src="assets/tryhackmepng.png" alt="TryHackMe Badge" width="400" height="120" style="border:none;"/>
   </a>
 </p>
 
