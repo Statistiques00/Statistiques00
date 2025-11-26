@@ -63,15 +63,5 @@ Je consacre mon temps à :
 </p>
 
 ---
-
-### 📊 Mes Statistiques GitHub :
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=statistiques00&show_icons=true&locale=en" alt="statistiques00" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=statistiques00&" alt="statistiques00" />
-    </td>
   </tr>
 </table>
