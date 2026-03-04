@@ -12,7 +12,7 @@ Je consacre mon temps à :
 
 <p align="left">
   <a href="https://tryhackme.com/p/TOUDINCOU">
-    <img src="/tryhackmepng2.png" alt="TryHackMe Badge" width="400" height="120" style="border:none;"/>
+    <img src="/tryhackmepng3.png" alt="TryHackMe Badge" width="400" height="120" style="border:none;"/>
   </a>
 </p>
 
